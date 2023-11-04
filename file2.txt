@@ -1,3 +1,5 @@
 dòng này được ghi xong sẽ commit by remote
 
 tạo xung đột từ nhanh1
+
+quay về commit trước và thay đổi
