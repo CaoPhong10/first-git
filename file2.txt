@@ -1,1 +1,2 @@
 dòng này được ghi xong sẽ commit by remote
+tạo xung đột bởi nhánh master
